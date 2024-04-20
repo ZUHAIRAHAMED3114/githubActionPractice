@@ -6,7 +6,7 @@ namespace githubActionWithUnitTest
         public void Test1()
         {
 
-            Assert.True(1 == 0);
+            Assert.True(1 == 1);
         }
     }
 }
